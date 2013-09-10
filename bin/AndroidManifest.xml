@@ -31,6 +31,10 @@
             android:name="com.example.ezzence.PinLoginActivity"
             android:label="@string/title_activity_pin_login" >
         </activity>
+        <activity
+            android:name="com.example.ezzence.TemperatureOverviewActivity"
+            android:label="@string/title_activity_temperature_overview" >
+        </activity>
     </application>
 
 </manifest>

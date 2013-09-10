@@ -4,6 +4,12 @@
     <string name="app_name">Ezzence</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    
+    
     <string name="title_activity_pin_login">PinLoginActivity</string>
-
+    <string name="title_activity_temperature_overview">TemperatureOverviewActivity</string>
+    
+    
+    <string name="temperatureOverviewTitle">Temperature Overview</string>
+	<string name="addTemperaturePeriodButtonText">Add Temperature Period</string>
 </resources>
